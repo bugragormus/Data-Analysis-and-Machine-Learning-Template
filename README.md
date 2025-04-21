@@ -378,8 +378,8 @@ This project is licensed under the MIT License. For more information, see the `L
 
 ## 📞 Contact
 
-- Project Owner: [Your Name](mailto:your.email@example.com)
-- Project Link: [https://github.com/yourusername/template](https://github.com/yourusername/template)
+- Project Owner: [Buğra Görmüş](mailto:bugra.gormus@hotmail.com)
+- Project Link: [https://github.com/bugragormus/Data-Analysis-and-Machine-Learning-Template](https://github.com/bugragormus/Data-Analysis-and-Machine-Learning-Template)
 
 ## 🙏 Thanks
 
@@ -1008,8 +1008,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## 📞 İletişim
 
-- Proje Sahibi: [Your Name](mailto:your.email@example.com)
-- Proje Linki: [https://github.com/yourusername/template](https://github.com/yourusername/template)
+- Proje Sahibi: [Buğra Görmüş](mailto:bugra.gormus@hotmail.com)
+- Proje Linki: [https://github.com/bugragormus/Data-Analysis-and-Machine-Learning-Template](https://github.com/bugragormus/Data-Analysis-and-Machine-Learning-Template)
 
 ## 🙏 Teşekkürler
 
